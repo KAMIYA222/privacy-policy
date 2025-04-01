@@ -1,6 +1,3 @@
-# privacy-policy
-しゃべる電卓のプライバシーポリシー
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
